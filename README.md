@@ -1,6 +1,6 @@
 # MedMind: Predicting Mental Health Risk in Spanish Medical Students
 
-> **IE University — BDBA / BCSAI Capstone Project**
+> **IE University — BDBA Capstone Project**
 >
 > An end-to-end machine learning pipeline that predicts depression, burnout, anxiety, and suicidal ideation among medical students using the DABE 2020 national dataset (n = 5,216), explains predictions with SHAP, and packages the results into an interactive screening tool.
 
