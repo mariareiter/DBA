@@ -203,8 +203,8 @@ This project is submitted as an academic capstone at IE University. The code is 
 
 ## Author
 
-**[Your Name]**
-Bachelor in Data & Business Analytics / Bachelor in Computer Science & AI
+**María Reiter**
+Bachelor in Data & Business Analytics
 IE University, Madrid
 
-Supervised by **[Supervisor Name]**
+Supervised by **Luis Galindo**
